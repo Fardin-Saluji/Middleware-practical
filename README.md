@@ -12,7 +12,7 @@ Protect /profile route
 
 
 
-Middlewares
+// Middlewares
 
 Auth Middleware:
 Checks token from query string (token=12345).
