@@ -172,7 +172,7 @@ GET https://middleware-practical.onrender.com/profile?token=1234
 
 ## 👨‍💻 Author
 
-Mohsin Saluji  
+Fardin Saluji  
 Full Stack Developer (MERN Stack)  
 Mumbai, India
 
